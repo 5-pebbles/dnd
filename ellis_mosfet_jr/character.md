@@ -41,8 +41,8 @@
 |  Y  | CHA | Persuasion +E   | +10 |
 |  N  | INT | Religion        |  0 |
 |  N  | DEX | Sleight of Hand | +3 |
-|  N  | DEX | Stealth         | +3 |
-|  N  | WIS | Survival        |  0 |
+|  Y  | DEX | Stealth         | +6 |
+|  Y  | WIS | Survival        | +3 |
 
 ## Features & Traits
 
