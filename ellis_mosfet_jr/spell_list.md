@@ -30,6 +30,8 @@ If another Bard feature gives you spells that you always have prepared, those sp
 
 ## Spell List
 
+3/0/2
+
 ### Cantrips
 
 - Mage Hand (Legacy of Minauros)

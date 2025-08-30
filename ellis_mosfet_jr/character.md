@@ -1,9 +1,11 @@
-# Ellis Mosfet Jr., Tiefling (Mammon), Bard Lv 6, Collage of Glamour
+# Ellis Clinton, Tiefling (Mammon), Bard Lv 6, Collage of Glamour
 
-- **Proficiency:** +8
-- **Initiative:** +3
+- **Proficiency:** +3
+- **Initiative:** +8
+- **AC:** 11 + 3
+- **Spell Save:** 15
 
-- _**Hit Points:**_ 39
+- _**Hit Points:**_ 19
 - **Max Hit Points:** 39
 - _**Hit Dice:**_ 6 out of 6d8s
 
@@ -39,8 +41,8 @@
 |  Y  | CHA | Persuasion +E   | +10 |
 |  N  | INT | Religion        |  0 |
 |  N  | DEX | Sleight of Hand | +3 |
-|  Y  | DEX | Stealth         | +6 |
-|  Y  | WIS | Survival        | +3 |
+|  N  | DEX | Stealth         | +3 |
+|  N  | WIS | Survival        |  0 |
 
 ## Features & Traits
 
@@ -72,8 +74,6 @@ Once within the next hour when the creature fails a D20 Test, the creature can r
 **Number of Uses.** You can confer a Bardic Inspiration die a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 **At Higher Levels.** Your Bardic Inspiration die changes when you reach certain Bard levels, as shown in the Bardic Die column of the Bard Features table. The die becomes a d8 at level 5, a d10 at level 10, and a d12 at level 15.
-
-- _**Bardic Inspiration:**_ 4 out of 4d8
 
 ##### Expertise
 
@@ -164,4 +164,5 @@ You know the Mage Hand cantrip. When you reach 3rd level, you can cast the Tense
 - _**Arcane Lock:**_ 1/1
 
 #### Languages
+
 You can speak, read, and write Common and Infernal.

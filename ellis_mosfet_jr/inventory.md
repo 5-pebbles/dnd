@@ -29,9 +29,4 @@
 1x Dragonchess Set
 
 ## Pouch
-1x Strip of White Cloth
-1x Chip of Mica
-1x Tuffet of Beast Fur
-1x Crystal Vial Filled With Phosphorescent Material
-2x Lodestone
 32x Gold Pieces
