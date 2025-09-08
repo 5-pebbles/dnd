@@ -1,11 +1,11 @@
-# Ellis Clinton, Tiefling (Mammon), Bard Lv 6, Collage of Glamour
+# Ellis MOSFET Jr, Tiefling (Mammon), Bard Lv 6, Collage of Glamour
 
 - **Proficiency:** +3
 - **Initiative:** +8
-- **AC:** 11 + 3
+- **AC:** 11 + 3 (8 + 3 without armor)
 - **Spell Save:** 15
 
-- _**Hit Points:**_ 19
+- _**Hit Points:**_ 24
 - **Max Hit Points:** 39
 - _**Hit Dice:**_ 6 out of 6d8s
 
@@ -75,6 +75,8 @@ Once within the next hour when the creature fails a D20 Test, the creature can r
 
 **At Higher Levels.** Your Bardic Inspiration die changes when you reach certain Bard levels, as shown in the Bardic Die column of the Bard Features table. The die becomes a d8 at level 5, a d10 at level 10, and a d12 at level 15.
 
+- _**Bardic Inspiration:**_ 2/4
+
 ##### Expertise
 
 You gain Expertise in two of your skill proficiencies of your choice.
@@ -119,7 +121,7 @@ As a Bonus Action, you cast Command without expending a spell slot, and you take
 Any creature Charmed by you automatically fails its saving throw against the Command you cast with this feature.
 
 Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 3+ spell slot (no action required).
-- _**Majesty:**_ 1/1
+- _**Majesty:**_ 0/1
 
 ### Background
 

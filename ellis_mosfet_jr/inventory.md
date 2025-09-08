@@ -6,7 +6,7 @@
 1x Traveler's Clothes
 1x Backpack
 1x Pouch
-1x Handkerchief
+1x Earring of Message (5/5 | 1d4 + 1 at dawn)
 
 ## Backpack
 
@@ -27,6 +27,8 @@
 1x Bottle of Mercury (1/2 empty)
 1x Hunting Trap
 1x Dragonchess Set
+2x Healer's Kit 
 
 ## Pouch
-32x Gold Pieces
+80x Gold Pieces
+1x Black Crystal (???) in a handkerchief
