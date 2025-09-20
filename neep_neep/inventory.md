@@ -3,11 +3,13 @@
 1x Traveler's clothes
 1x Splint Armor (AC 17) (Guardian Model)
 1x Shield (AC +2) (Enhanced Defense AC +1)
+1x Bracelet of Hydration
 1x Backpack
 
 1x Light Crossbow
 20x bolts
 2x Dagger
+1x Flute
 
 
 ## Backpack

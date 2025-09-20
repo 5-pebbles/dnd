@@ -27,21 +27,21 @@
 |  N  | DEX | Acrobatics      | +3 |
 |  N  | WIS | Animal Handling | -1 |
 |  N  | INT | Arcana          | +4 |
-|  N  | STR | Athletics       | -1 |
+|  Y  | STR | Athletics       | +2 |
 |  N  | CHA | Deception       | -1 |
 |  N  | INT | History         | +4 |
-|  Y  | WIS | Insight         | +2 |
+|  N  | WIS | Insight         | +2 |
 |  N  | CHA | Intimidation    | -1 |
 |  Y  | INT | Investigation   | +7 |
 |  N  | WIS | Medicine        | -1 |
 |  Y  | INT | Nature          | +7 |
 |  Y  | WIS | Perception      | +2 |
 |  N  | CHA | Performance     | -1 |
-|  Y  | CHA | Persuasion      | +2 |
+|  N  | CHA | Persuasion      | +2 |
 |  N  | INT | Religion        | +4 |
 |  N  | DEX | Sleight of Hand | +3 |
 |  N  | DEX | Stealth         | +3 |
-|  N  | WIS | Survival        | -1 |
+|  Y  | WIS | Survival        | +2 |
 
 ## Features & Traits
 
@@ -187,50 +187,16 @@ Starting at 5th level, you can attack twice, rather than once, whenever you take
 
 ### Background
 
-#### Rewarded
+#### Outland
 
-> Not going to lie, the only reason I chose this background is to avoid dieing of dehydration...
-
-##### Proficiencies
-
-Skill Proficiencies: Insight, Persuasion
+Skill Proficiencies: Athletics, Survival
+Tool Proficiencies: One type of musical instrument (Flute)
 Languages: One of your choice (Common)
-Tool Proficiencies: One gaming set of your choice (playing cards)
+Equipment: A staff, a hunting trap, a trophy from an animal you killed, a set of traveler's clothes, and a belt pouch containing 10 gp
 
-##### Fortune's Favor
+##### Wanderer
 
-Your unexpected good fortune is reflected by a minor boon. You gain the Lucky, Magic Initiate, or Skilled feat (your choice). Your choice of feat reflects the transformation that changed your life. An encounter with a genie who gave you three wishes might have resulted in magical powers represented by Magic Initiate. If you paid off all your family debts with a fortuitous round of three-dragon ante, you might be Lucky instead. Alternatively, you could use the Skilled feat to reflect whatever trial you endured to secure your new destiny and to model the knowledge and abilities imparted to you by whatever force transformed your life.
-
-##### Magic Initiate
-
-Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class's spell list.
-
-In addition, choose one 1st-level spell to learn from that same list. Using this feat, you can cast the spell once at its lowest level, and you must finish a long rest before you can cast it in this way again.
-
-Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
-
-
-**Create or Destroy Water**
-
-You do one of the following:
-- Create Water: You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot Cube within range, extinguishing exposed flames there.
-- Destroy Water: You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot Cube within range.
-
-- **Free Casting:** 1/1
-
-**Shape Water**
-You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
-
-- You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn't have enough force to cause damage.
-- You cause the water to form into simple shapes and animate at your direction. This change lasts for 1 hour.
-- You change the water's color or opacity. The water must be changed in the same way throughout. This change lasts for 1 hour.
-- You freeze the water, provided that there are no creatures in it. The water unfreezes in 1 hour.
-
-If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
-
-**Guidance**
-Duration: Concentration, up to 1 minute
-You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any ability check using the chosen skill.
+You have an excellent memory for maps and geography, and you can always recall the general layout of terrain, settlements, and other features around you. In addition, you can find food and fresh water for yourself and up to five other people each day, provided that the land offers berries, small game, water, and so forth.
 
 ### Species Traits
 
@@ -271,7 +237,7 @@ You are immune to poison damage and the poisoned condition.
 ##### Poisonous Skin
 
 Any creature that grapples you or otherwise comes into direct contact with your skin must succeed on a DC 12 Constitution saving throw or become poisoned for 1 minute. A poisoned creature no longer in direct contact with you can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-    You can also apply this poison to any piercing weapon as part of an attack with that weapon, though when you hit the poison reacts differently. The target must succeed on a DC 12 Constitution saving throw or take 2d4 poison damage.
+You can also apply this poison to any piercing weapon as part of an attack with that weapon, though when you hit the poison reacts differently. The target must succeed on a DC 12 Constitution saving throw or take 2d4 poison damage.
 
 ##### Standing Leap
 
